@@ -11,3 +11,4 @@ organizational tools: Git, Slack, Jupyter notebooks
 
 
 ##nice.
+......
